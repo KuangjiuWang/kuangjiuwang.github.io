@@ -42,7 +42,7 @@ I’m particularly excited about topics around the interface of geometry, arithm
 I occasionally write notes about things I’m learning (mostly for myself, but feel free to use them):
 
 
-You can find them under the **Notes** or **Posts** section of this website.
+You can find them under the **Notes** section of this website.
 
 ---
 
