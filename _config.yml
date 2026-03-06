@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Keep Thinking"
+title                    : "Keep Thinking/Kuangjiu Wang"
 title_separator          : "-"
 name                     : &name "Kuangjiu Wang"
 description              : &description "Undergraduate in Mathematics at Shandong University. Interested in algebraic geometry, number theory, and representation theory."  # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "fengjing.jpg"
-  name             : "Kuangjiu Wang"
+  name             : "Kuangjiu Wang(王匡九)"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Jinan Shandong"
